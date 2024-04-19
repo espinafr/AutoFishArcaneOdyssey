@@ -1,0 +1,2 @@
+**Esse programa ainda está em desenvolvimento e precisa de alguns ajustes.**
+Você pode tentar usar se quiser, mas vai precisar mudar algumas configurações como área de procurar a bolha de peixe na tela (o símbolo de exclamação) e também um pixel amarelo na notificação de "pesca bem sucedida" que seja o mesmo que o pixel da notificação de "tesouro pego"
